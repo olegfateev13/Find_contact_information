@@ -1,0 +1,5 @@
+numpy==1.20.1
+pandas==1.2.2
+scikit-learn==0.24.2
+phonenumbers==8.12.28
+lightgbm==3.2.1
